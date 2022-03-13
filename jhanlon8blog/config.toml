@@ -1,0 +1,4 @@
+baseURL = 'https://jhanlon8.github.io/'
+languageCode = 'en-us'
+title = 'Jayson Hanlons Blog'
+theme='PaperMod'

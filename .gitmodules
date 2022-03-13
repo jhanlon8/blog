@@ -1,0 +1,4 @@
+[submodule "jhanlon8blog/public"]
+	path = jhanlon8blog/public
+	url = https://github.com/jhanlon8/jhanlon8.github.io.git
+	branch = main
